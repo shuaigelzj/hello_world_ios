@@ -29,4 +29,3 @@ deploy:
   file: build/ios/iphoneos/app.ipa
   on:
     repo: shuaigelzj/hello_world_ios
-  draft: true
